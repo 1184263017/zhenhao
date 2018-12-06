@@ -1,16 +1,6 @@
 <?php 
 
-asdsad
 
-
-
-
-// {
-//     "payUrl": "alipay_sdk=alipay-sdk-php-20161101&app_id=2017010504868795&biz_content=%7B%22out_trade_no%22%3A%222018101572240%22%2C%22product_code%22%3A%22QUICK_MSECURITY_PAY%22%2C%22subject%22%3A%22%5Cu767e%5Cu8def%5Cu6c47%5Cu5145%5Cu503c%22%2C%22total_amount%22%3A%22100.00%22%2C%22body%22%3A%22Iphone6+16G%22%2C%22timeout_express%22%3A%2230m%22%7D&charset=UTF-8&format=json&method=alipay.trade.app.pay&notify_url=http%3A%2F%2F139.196.73.211%2Fpayment2%2Fnotify.php&sign_type=RSA2&timestamp=2018-10-15+16%3A40%3A20&version=1.0&sign=",
-//     "status": "success",
-//     "message": "",
-//     "orderid": "2018101572240"
-// }
 
 
 
