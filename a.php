@@ -1,30 +1,6 @@
 <?php 
 
-//var_dump(sprintf('%.10f', 123));
-// $a = array(
-// 	array(
-// 		'www',
-// 		'eee',
-// 		'ttt'
-// 	),
-// 	'bb',
-// 	'cc',
-// 	'dd',
-// 	'ee',
-// 	'ff',
-// 	'gg'
-// );
-// for ($i=0; $i<count($a[0]); $i++) {
-// 	echo $a[0][$i];
-// }
-// foreach ($a as $k=>$value) {
-// 	if ($k == 5) echo $value;
-// }
-
-
-// ,{"quantity":"1","id":"809","provider_id":"666","type":"6","shop_id":"1","goods_id":"809"}
-
-
+姐夫和规范化个
 
 
 
